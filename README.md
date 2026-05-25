@@ -101,8 +101,8 @@ sudo wget -qO- https://github.com/Bhaviktutorials/shark/raw/master/setup | sudo 
   </tr>
 </table>
 
-<p align="center"><a href="https://www.buymeacoffee.com/BhavikTutorials" target="_blank"><img src="https://github.com/E343IO/stuff/blob/main/default-orange.webp?raw=true" alt="Buy Me A Coffee" height="41" width="174"></a>
+<p align="center"><atarget="_blank"><orange.webp?raw=true" alt="Buy Me A Coffee" height="41" width="174"></a>
 <p align="center"><a href="https://github.com/Bhaviktutorials"><img src="https://user-images.githubusercontent.com/64035221/96459220-834c7e00-123f-11eb-8417-534058a7ba62.png" alt="GitHub" width="80" height="80">
-<a href="https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ"><img src="https://user-images.githubusercontent.com/64035221/96456596-4f238e00-123c-11eb-821e-85e9aaa3faec.png" alt="YouTube" width="80" height="80">
-<a href="https://t.me/bhaviktutorial"><img src="https://user-images.githubusercontent.com/64035221/113977119-b91e0700-985f-11eb-9418-eab91ff1540e.png" alt="Telegram" width="80" height="">
-<a href="https://www.instagram.com/bhavik_tutorials/"><img src="https://user-images.githubusercontent.com/64035221/113977904-e61ee980-9860-11eb-82d1-9ebd795c8138.png" alt="Instagram" width="80" height="">
+<a href="><img src="" alt="YouTube" width="80" height="80">
+<a href="https://t.me/bhaviktutorial">< alt="Telegram" width="80" height="">
+<a href=""><img src="https://user-images.githubusercontent.com/64035221/113977904-e61ee980-9860-11eb-82d1-9ebd795c8138.png" alt="Instagram" width="80" height="">
