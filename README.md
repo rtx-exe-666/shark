@@ -101,8 +101,3 @@ sudo wget -qO- https://github.com/Bhaviktutorials/shark/raw/master/setup | sudo 
   </tr>
 </table>
 
-<p align="center"><atarget="_blank"><orange.webp?raw=true" alt="Buy Me A Coffee" height="41" width="174"></a>
-<p align="center"><a href="https://github.com/Bhaviktutorials"><img src="https://user-images.githubusercontent.com/64035221/96459220-834c7e00-123f-11eb-8417-534058a7ba62.png" alt="GitHub" width="80" height="80">
-<a href="><img src="" alt="YouTube" width="80" height="80">
-<a href="https://t.me/bhaviktutorial">< alt="Telegram" width="80" height="">
-<a href=""><img src="https://user-images.githubusercontent.com/64035221/113977904-e61ee980-9860-11eb-82d1-9ebd795c8138.png" alt="Instagram" width="80" height="">
