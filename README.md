@@ -10,9 +10,9 @@
  <a <img title="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue" ></a>
  <a ><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=2.5.1.beta&x2=0"></a>
 <a ><img title="GitHub version" ></a>
- <a ><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Bhavik Tutorials-green"/></a>
- <a ><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Bhavik_Tutorials-ff69b4"/></a>
- <a ><img title="Stars" src="https://img.shields.io/github/stars/Bhaviktutorials/shark?style=social" ></a>
+ <a ><img alt="Youtube" /></a>
+ <a ><img alt="Instagram" ></a>
+ <a ><img title="Stars" ></a>
 </p>
 
 ###### <p align="center">*This is official repository maintained by us*
