@@ -16,8 +16,8 @@
 </p>
 
 ###### <p align="center">*This is official repository maintained by us*
-###### <p align="center"> *[**@Bhavik_Tutorials**](https://www.instagram.com/bhavik_tutorials/) ❤️*
-###### <p align="center"> *You can check [youtube](https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ)✌*
+###### <p align="center"> *[**@kuldeep_Tutorials**] ❤️*
+###### <p align="center"> *You can check [youtube]✌*
 ---
 
 ## <p align="center">**What is Shark??**
